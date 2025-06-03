@@ -54,10 +54,18 @@ npx json-server db.json
 📁 Folder Structure
 
 ├── Components
+|
 │   ├── Form.jsx
+|   |
 │   ├── Header.jsx
+|   |
 │   └── Table.jsx
+|
+|
 ├── db.json
+|
 ├── App.jsx
+|
 ├── index.js
+|
 └── README.md
